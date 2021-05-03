@@ -21,12 +21,12 @@ section {
     overflow: auto;
 }
 
-.left {
+.L {
     width: 45%;
     float: left;
 }
 
-.right {
+.R {
     width: 45%;
     float: right;
 }
